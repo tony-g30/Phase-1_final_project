@@ -1,0 +1,72 @@
+{
+  "students": [
+    {
+      "id": "1721640618885",
+      "name": "Mike Atwood",
+      "course": "Information Technology",
+      "currentProgress": "2nd Year",
+      "email": "river@gmail.com",
+      "dob": "2000-03-04",
+      "contact": "+254716536734"
+    },
+    {
+      "id": "1721640786507",
+      "name": "Larry Owino",
+      "course": "Software Engineering",
+      "currentProgress": "4th Year",
+      "email": "larryowino@gmail.com",
+      "dob": "2333-03-31",
+      "contact": "075345628"
+    },
+    {
+      "id": "1721641826599",
+      "name": "Harry Wilson",
+      "course": "Computer Science",
+      "currentProgress": "1st Year",
+      "email": "harry1@gmail.com",
+      "dob": "2024-06-18",
+      "contact": "0701456734"
+    },
+    {
+      "id": "1721642911867",
+      "name": "Tony Audo Oleng",
+      "course": "Information Technology",
+      "currentProgress": "2nd Year",
+      "email": "tonyaudo@gmail.com",
+      "dob": "2000-04-03",
+      "contact": "038346646763"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Computer Science",
+      "id": "cb1a"
+    },
+    {
+      "name": "Information Technology",
+      "id": "76df"
+    },
+    {
+      "name": "Software Engineering",
+      "id": "9b2c"
+    }
+  ],
+  "progress": [
+    {
+      "status": "1st Year",
+      "id": "0bf5"
+    },
+    {
+      "status": "2nd Year",
+      "id": "dfee"
+    },
+    {
+      "status": "3rd Year",
+      "id": "c377"
+    },
+    {
+      "status": "4th Year",
+      "id": "a403"
+    }
+  ]
+}
